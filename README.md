@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 # 💫 About Me:
 Hello, I’m Raghad, a specialist in Artificial Intelligence and Data Analysis. I believe that technology is not just programming; it is a means to create solutions that make a real difference. I am passionate about transforming ideas into practical, intelligent tools that address real-world challenges in innovative and creative ways. ⚡<br><br>I enjoy taking on new challenges, leading technical teams, and pushing myself to learn something new every day. When I don’t have the answer, I dive into research, ask questions, and experiment until I reach the optimal solution.<br><br>Throughout my journey, I have developed and implemented technical projects in data analysis and programming, and participated in advanced courses and workshops that have enhanced my skills using the latest tools and methodologies. My expertise includes Python, data analysis, Microsoft Office automation, presentation design, leadership, problem-solving, and time management. 🚀<br><br>For me, growth begins with curiosity, teamwork, and the desire to make a positive impact and I am always excited to connect, share knowledge, and explore new opportunities and possibilities. 🌿
 
@@ -17,9 +18,13 @@ Hello, I’m Raghad, a specialist in Artificial Intelligence and Data Analysis. 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=engraghad20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=engraghad20&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
