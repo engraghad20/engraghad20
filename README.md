@@ -1,7 +1,9 @@
 ## Hi there , I’m Raghad👋
 # 💫 About Me:
-a Data Analysis and Artificial Intelligence specialist, skilled in building end-to-end solutions that merge analytical thinking with practical, real-world applications through full-stack web development. ⚡
-I thrive on continuous learning, innovative problem-solving, and collaborating with teams to deliver impactful and meaningful solutions. 🚀🌿.🌿<br><br>
+Data Analysis and Artificial Intelligence specialist, skilled in building end-to-end solutions that merge analytical thinking with practical, real-world applications through full-stack web development. ⚡
+
+Thrives on continuous learning, innovative problem-solving, and collaborating with teams to deliver impactful and meaningful solutions. 🚀🌿
+<br><br>
 
 
 ## 🌐 Socials:
