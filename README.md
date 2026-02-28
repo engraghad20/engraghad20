@@ -1,6 +1,7 @@
 ## Hi there , I’m Raghad👋
 # 💫 About Me:
-Full-Stack Developer with a growing interest in Artificial Intelligence and Data Analysis. I enjoy building end-to-end solutions that address challenges by combining web development skills with data-driven approaches.⚡<br><br>I have gained experience through projects and coursework in web development, automation, and data analysis, using tools and technologies such as Python, JavaScript, React, Node.js, SQL, and Microsoft Office automation.🚀<br><br>I focus on continuous learning, problem-solving, and collaborating with teams to develop practical and innovative solutions.🌿<br><br>
+a Data Analysis and Artificial Intelligence specialist, skilled in building end-to-end solutions that merge analytical thinking with practical, real-world applications through full-stack web development. ⚡
+I thrive on continuous learning, innovative problem-solving, and collaborating with teams to deliver impactful and meaningful solutions. 🚀🌿.🌿<br><br>
 
 
 ## 🌐 Socials:
